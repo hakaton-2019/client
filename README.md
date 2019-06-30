@@ -4,4 +4,5 @@
 
 npm install cordova -g  
 npm install  
+cordova platform add browser  
 cordova run browser  
